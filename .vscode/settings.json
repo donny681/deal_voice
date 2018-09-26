@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "vad.h": "c",
+        "timing.h": "c",
+        "stdio.h": "c"
+    }
+}
